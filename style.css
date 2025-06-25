@@ -1,1 +1,25 @@
+head{
 
+    background-color:  rgb(186, 225, 240);
+}
+
+body{
+
+   background-color:  rgb(186, 225, 240); 
+
+   #Welcome{
+    color: rgb(47, 151, 151);
+   }
+
+   #PL{
+    color: rgb(6, 122, 122);
+   }
+   
+   #BeeMovie{
+    background-color: rgb(151, 206, 231);
+    color: rgb(16, 147, 156);
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+   }
+}
