@@ -1,0 +1,47 @@
+Theme: pastel and dark/horror
+
+Idea 1: A lightbulb at the top (or elsewhere) on the page, which is on when the page is openend. Creating a pastel light themed website.
+          However when the "dark mode" button is pressed, said lightbulb will turn "off" and activate the dark/horror theme.
+          Changing all assets into a dark/horror theme version. May be included with a lightswitch sound effect.
+
+Idea 2: A character who follows you across the webpages, possibly explaining things or just hanging out with the user.
+            Character may be affected by the lightbulb mentioned in "Idea 1".
+
+Idea 3:
+
+
+
+
+Questions:
+
+Q1: What will the theme of the website be?
+A:
+Examples of what I wish to achieve: https://strawbebby228.neocities.org - 
+
+Q2: What will it be called?
+A:
+
+Q3: How many pages will it contain?
+A: Page count
+    1: Home page/main page
+    2: About me
+    3: Click counter
+    4: Weather app?
+    5: Gallery
+    6: IN Pictures Gallery
+    7: Character dress-up game
+    8: Thrift finds (example: https://lovesick.cafe/thriftlog -  )
+    9: Guest book?
+    10: 
+
+Q4: What will the font type be?
+A:
+
+Q5: What assets will I need to create?
+A:
+
+Q6: Which code languages?
+A: HTML, CSS, JavaScript
+
+Q7: 
+A:
