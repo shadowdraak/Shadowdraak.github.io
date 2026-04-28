@@ -1,0 +1,34 @@
+head{
+
+    background-color: brown;
+}
+body{
+    #top_bar{
+    width: 1879px;
+    height: 40px;
+    position: relative;
+    top: -26px;
+    left: -8px;
+    background: #054292;    
+    }
+    
+    background: rgb(191, 219, 221);
+    
+    #middle_screen{
+    width: 1879px;
+    height: 500px;
+    position: relative;
+    top: -150px;
+    left: -8px;
+    
+  }  
+    #bottom_bar{
+    width: 1879px;
+    height: 60px;
+    position: relative;
+    bottom: -91px;
+    left: -8px;
+    background: #054292; 
+  }  
+
+}
